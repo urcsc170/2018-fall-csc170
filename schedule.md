@@ -1,7 +1,7 @@
 # Schedule
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
-|                | Lab 1<br>CRN:52020<br>(12:30 - 1:45 PM) | Lab 2<br>CRN:52036<br>(3:25 - 4:40 PM) | Lecture<br>(11:05 AM - 12:20 PM)          | Lab 3<br>CRN:52047<br>(3:25 - 4:40 PM) |
+|                | Lab<br>CRN:52036<br>(11:05 AM-12:20 PM) | Lab<br>CRN:52020<br>(12:30-1:45 PM)    | Lecture<br>(11:05 AM-12:20 PM)            | Lab<br>CRN:52047<br>(3:25-4:40 PM)     |
 | -------------- | --------------------------------------- | -------------------------------------- | ----------------------------------------- | -------------------------------------- |
 | **Wed Aug 29** | Lab 1 Account Setup                     | Lab 1 Account Setup                    |                                           |                                        |
 | **Thu Aug 30** |                                         |                                        | **Introduction to the Industry**          | Lab 1 Account Setup                    |
