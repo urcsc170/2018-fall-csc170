@@ -51,11 +51,11 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 
 **Help:** THIS IS IMPORTANT --> to get help on any lab assignment or project, students must go to a scheduled lab session and find one of the TAs and ask for help.
 
-| **Lab**    | **Day & Time**                            | **Location** | **Teaching Assistants**                                      |
-| ---------- | ----------------------------------------- | ------------ | ------------------------------------------------------------ |
-| CRN: 52036 | Mondays & Wednesdays 11:05 AM to 12:20 PM | Gavett 208   | Jiahao Lu <jlu39@u.rochester.edu><br><br>Phoi Nguyen <pnguy10@u.rochester.edu> |
-| CRN: 52020 | Mondays & Wednesdays 12:30 to 1:45 PM     | Gavett 208   | Bright Ine <bine@u.rochester.edu><br><br>Daniel Cancelmo <dcancelm@u.rochester.edu><br><br>William Gousios <wgousios@u.rochester.edu> |
-| CRN: 52047 | Tuesdays & Thursdays 3:35 to 4:40 PM      | Gavett 208   | Michael Henry <mhenry16@u.rochester.edu><br><br>Kelly Thornton <kthornt4@u.rochester.edu><br><br>Xinyi Chen<br> <xchen92@u.rochester.edu> |
+| **Lab**    | **Day & Time**                               | **Location** | **Teaching Assistants**                                      |
+| ---------- | -------------------------------------------- | ------------ | ------------------------------------------------------------ |
+| CRN: 52036 | Mondays & Wednesdays<br>11:05 AM to 12:20 PM | Gavett 208   | Jiahao Lu<br><jlu39@u.rochester.edu><br><br>Phoi Nguyen<br><pnguy10@u.rochester.edu> |
+| CRN: 52020 | Mondays & Wednesdays<br>12:30 to 1:45 PM     | Gavett 208   | Bright Ine<br><bine@u.rochester.edu><br><br>Daniel Cancelmo<br><dcancelm@u.rochester.edu><br><br>William Gousios<br><wgousios@u.rochester.edu> |
+| CRN: 52047 | Tuesdays & Thursdays<br>3:35 to 4:40 PM      | Gavett 208   | Michael Henry<br> <mhenry16@u.rochester.edu><br><br>Kelly Thornton<br><kthornt4@u.rochester.edu><br><br>Xinyi Chen<br> <xchen92@u.rochester.edu> |
 
 
 
