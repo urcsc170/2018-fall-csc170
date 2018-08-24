@@ -15,8 +15,11 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 - Office: **Morey Hall, Room 313**
 
 ### Office Hours
-- **Private Office Hours:** By appointment only - send DM to the professor via Slack
-- **Technical Help - Virtual Office Hours:** Use the **#help** channel in Slack
+- **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://csc170.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor will answer them Mondays and Thursdays, 9:30 to 10:30 AM
+
+  **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Tuesdays and Wednesdays at 9:30 to 10:30 AM.
+
+  **Private Office Hours:** when the other office hours aren't possible, send email to [robert.kostin@rochester.edu](mailto:robert.kostin@rochester.edu) to schedule an appointment
 
 ## Grading
 For each assignment, a grading rubric is provided. Rubrics will inform students how assignments are evaluated. 
