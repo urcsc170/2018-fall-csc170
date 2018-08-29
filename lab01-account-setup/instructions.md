@@ -10,7 +10,7 @@ Your assignment is to create an account on our production web server and practic
 
 Your FTP (File Transfer Protocol) account is what you will use to copy your web files to the web server throughout the semester.  One of the Teaching Assistants will set it up for you based on information you provide.
 
-- In the Lab section where you are registered, find one of the TAs and ask them to create an FTP account for you.  When the TA is ready, you will enter your **username** 
+- In the Lab section where you are registered, **find one of the TAs and ask them** to create an FTP account for you.  When the TA is ready, you will enter your **username** 
   - The standard is: first-initial + last name, all lowercase, e.g. Robert Kostin is **rkostin**, or...
   - You can use your URID
   - Note: if someone has a similar name to you the TA will ask you to add a middle initial or a number at the end - if that happens, REMEMBER what they did!
@@ -39,22 +39,14 @@ In summary, the information you'll need to keep for the rest of the semester:
 On your desktop (or anywhere on your computer’s file system including your thumb drive ...which might be a good idea) create a new HTML file:
 
 - On a PC
-
   - Right mouse-click anywhere on the desktop and select “New” and then “Text Document”
-
   - Change the full name of the document from New Text Document.txt (including the extension) to: start.html
-
   - Click Yes to the warning dialog that pops-up.
-
   - Using a code editor (like Sublime Text), open the start.html file.
 - On a Mac
-
   - Open a code editor (like Sublime Text).  
-
   - Save the current (empty) file to the desktop using the filename: start.html
-
 - In your code editor, enter the following text exactly as shown below
-
   - Mimic the indentations using tabs or spaces (it doesn’t matter which you use)
   - Where it says “Enter Your Name” (in two places), enter your name
   - Note: the "h1" is the letter "h" and the number "1", not a lowercase L
