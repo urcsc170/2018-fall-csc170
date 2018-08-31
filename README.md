@@ -7,10 +7,11 @@ Web Design and Development
 <hr>
 
 - Current topic
-  - [**Introduction to the Industry** (PDF)](01-introduction-to-the-industry/01-introduction-to-the-industry.pdf)<br>[**What is the World Wide Web** (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
+  - [**The Internet** (PDF)](02-internet/02-internet.pdf)
 - Current assignments you should be working on
-  - [Lab 1 Account Setup](lab01-account-setup/instructions.md) (due: Tuesday, September 4)
+  - [Lab 2 First HTML Webpage](lab02-first-html-webpage/instructions.md) (due: Thursday: September 6)
 - Previous topics
-  - 
+  - [**Introduction to the Industry** (PDF)](01-introduction-to-the-industry/01-introduction-to-the-industry.pdf)<br>[**What is the World Wide Web** (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
 - Previous assignments
-  - 
+  - [Lab 1 Account Setup](lab01-account-setup/instructions.md) (due: Tuesday, September 4)
+
