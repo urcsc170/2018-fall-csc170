@@ -9,7 +9,7 @@ Web Design and Development
 - Current topic
   - [**The Web and HTML** (PDF)](03-web-and-html/03-web-and-html.pdf)<br>[**Tim Berners-Lee's Proposal** (website)](http://info.cern.ch/Proposal.html)<br>[**W3C HTML Validator** (website)](https://validator.w3.org/)
 - Current assignments you should be working on
-  - Lab 3 Content Prep (coming soon)
+  - [Lab 3 Content Prep (due: Tuesday, September 11)](lab03-content-prep/instructions.md)
 - Previous topics
   - [**The Internet** (PDF)](02-internet/02-internet.pdf)
   - [**Introduction to the Industry** (PDF)](01-introduction-to-the-industry/01-introduction-to-the-industry.pdf)<br>[**What is the World Wide Web** (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
