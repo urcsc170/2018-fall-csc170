@@ -48,7 +48,7 @@ This assignment tests your ability to take "real" content and mark it up using s
 Note: In the two places where it says, "*the title of your content*" you should write the title of your content
 
 ## 2. Create the HTML Document
-*This is the point of this lab*: **You must figure out how best to tag your content semantically to identify each part of content.**
+*This is the point of this lab*: **You must figure out how best to semantically tag your content to identify each part of content** WITHIN the prescribed structure (header, article, aside, and footer).
 
 Using your Wikipedia content from Lab 3, extract the text and create *at least* these following elements:
 
