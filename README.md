@@ -11,14 +11,14 @@ Web Design and Development
   - [**CSC for Formatting 1** (PDF)](05-css-for-formatting1/05-css-for-formatting1.pdf)
 - Current assignments you should be working on
 
-  - Lab 5: CSS for Formatting, part 1 (coming soon)
+  - [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) (due: Tuesday, September 18)
 
 
 <hr>
 
 - Previous topics
 
-  - [**Web Document Structure** (PDF)](04-web-document-structure/04-web-document-structure.pdf)<br>[HTML5 New Elements (web page)](https://www.w3schools.com/html/html5_new_elements.asp)<br>[The Machine is Us-ing Us (YouTube)](https://www.youtube.com/watch?v=NLlGopyXT_g&feature=youtu.be)<br>
+  - [**Web Document Structure** (PDF)](04-web-document-structure/04-web-document-structure.pdf)<br>[HTML5 New Elements (web page)](https://www.w3schools.com/html/html5_new_elements.asp)<br>[The Machine is Us-ing Us (YouTube)](https://www.youtube.com/watch?v=NLlGopyXT_g&feature=youtu.be)
   - [**The Web and HTML** (PDF)](03-web-and-html/03-web-and-html.pdf)<br>[Tim Berners-Lee's Proposal (website)](http://info.cern.ch/Proposal.html)<br>[W3C HTML Validator (website)](https://validator.w3.org/)
   - [**The Internet** (PDF)](02-internet/02-internet.pdf)
   - [**Introduction to the Industry** (PDF)](01-introduction-to-the-industry/01-introduction-to-the-industry.pdf)<br>[What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
