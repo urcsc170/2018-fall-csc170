@@ -11,7 +11,7 @@ Web Design and Development
   - [**CSS for Formatting , part 2** (PDF)](06-css-for-formatting2/06-selectors-box model-floats.pdf)<br> [**Project 1 - Review** (PDF)](06-css-for-formatting2/06a-project1-review.pdf)
 - Current assignments you should be working on
 
-  - Lab 6: CSS for Formatting, part 2 (coming soon)
+  - [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) (due, Tuesday, September 25 - *one week!*)
   - [Project 1 - Classic HTML Document](project01-classic-html-document/instructions.md) (due: Tuesday, October 9)
 
 
