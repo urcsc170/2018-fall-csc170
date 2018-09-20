@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - [**CSS for Formatting , part 2** (PDF)](06-css-for-formatting2/06-selectors-box model-floats.pdf)<br> [**Project 1 - Review** (PDF)](06-css-for-formatting2/06a-project1-review.pdf)
+  - [**CSS for Layout, part 1** (PDF)](07-css-for-layout1/07-css-for-layout1.pdf)<br>[Webolution (website)](http://fabianburghardt.de/webolution/)
 - Current assignments you should be working on
 
   - [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) (due, Tuesday, September 25 - *one week!*)
@@ -19,6 +19,7 @@ Web Design and Development
 
 - Previous topics
 
+  - [**CSS for Formatting, part 2** (PDF)](06-css-for-formatting2/06-selectors-box model-floats.pdf)<br> [**Project 1 - Review** (PDF)](06-css-for-formatting2/06a-project1-review.pdf)
   - [**CSS for Formatting , part 1** (PDF)](05-css-for-formatting1/05-css-for-formatting1.pdf)
   - [**Web Document Structure** (PDF)](04-web-document-structure/04-web-document-structure.pdf)<br>[HTML5 New Elements (web page)](https://www.w3schools.com/html/html5_new_elements.asp)<br>[The Machine is Us-ing Us (YouTube)](https://www.youtube.com/watch?v=NLlGopyXT_g&feature=youtu.be)
   - [**The Web and HTML** (PDF)](03-web-and-html/03-web-and-html.pdf)<br>[Tim Berners-Lee's Proposal (website)](http://info.cern.ch/Proposal.html)<br>[W3C HTML Validator (website)](https://validator.w3.org/)
