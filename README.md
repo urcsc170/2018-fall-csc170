@@ -8,10 +8,10 @@ Web Design and Development
 
 - Current topic
 
-  - [**CSS for Layout, part 2** (PDF)](08-css-for-layout2/08-css-for-layout2.pdf)<br>[Flex and Grid In-class Demo (ZIP)](08-css-for-layout2/flex-grid_demo.zip)
+  - [**CSS for Navigation, part 1** (PDF)](09-css-for-navigation1/09-css-for-navigation1.pdf)<br>[Basic Navigation Demo (ZIP)](09-css-for-navigation1/demo_basic-navigation.zip)
 - Current assignments you should be working on
 
-  - [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Thursday, September 27)
+  - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: Thursday, October 4 - *one week!*)
   - [Project 1 - Classic HTML Document](project01-classic-html-document/instructions.md) (due: Tuesday, October 9)
 
 
@@ -19,6 +19,7 @@ Web Design and Development
 
 - Previous topics
 
+  - [**CSS for Layout, part 2** (PDF)](08-css-for-layout2/08-css-for-layout2.pdf)<br>[Flex and Grid In-class Demo (ZIP)](08-css-for-layout2/flex-grid_demo.zip)
   - [**CSS for Layout, part 1** (PDF)](07-css-for-layout1/07-css-for-layout1.pdf)<br>[Webolution (website)](http://fabianburghardt.de/webolution/)
   - [**CSS for Formatting, part 2** (PDF)](06-css-for-formatting2/06-selectors-box model-floats.pdf)<br> [**Project 1 - Review** (PDF)](06-css-for-formatting2/06a-project1-review.pdf)
   - [**CSS for Formatting , part 1** (PDF)](05-css-for-formatting1/05-css-for-formatting1.pdf)
@@ -28,6 +29,7 @@ Web Design and Development
   - [**Introduction to the Industry** (PDF)](01-introduction-to-the-industry/01-introduction-to-the-industry.pdf)<br>[What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
 - Previous assignments
 
+  - [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Thursday, September 27)
   - [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) (due: Tuesday, September 25 - *one week!*)
   - [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) (due: Tuesday, September 18)
   - [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) (due: Thursday, September 13)
