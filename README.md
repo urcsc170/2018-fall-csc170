@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - [CSS Navigation, part 2 (positioning), (PDF)](10-css-for-navigation2/10-css-positioning.pdf)<br>[Navigation Demo Files (ZIP)](10-css-for-navigation2/nav-demos.zip)
+  - [**CSS Navigation, part 2 (positioning)**, (PDF)](10-css-for-navigation2/10-css-positioning.pdf)<br>[Navigation Demo Files (ZIP)](10-css-for-navigation2/nav-demos.zip)
 - Current assignments you should be working on
 
   - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: Thursday, October 4 - *one week!*)
