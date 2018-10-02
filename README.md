@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - [**CSS for Navigation, part 1** (PDF)](09-css-for-navigation1/09-css-for-navigation1.pdf)<br>[Basic Navigation Demo (ZIP)](09-css-for-navigation1/demo_basic-navigation.zip)
+  - [CSS Navigation, part 2 (positioning), (PDF)](10-css-for-navigation2/10-css-positioning.pdf)<br>[Navigation Demo Files (ZIP)](10-css-for-navigation2/nav-demos.zip)
 - Current assignments you should be working on
 
   - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: Thursday, October 4 - *one week!*)
@@ -19,6 +19,7 @@ Web Design and Development
 
 - Previous topics
 
+  - [**CSS for Navigation, part 1** (PDF)](09-css-for-navigation1/09-css-for-navigation1.pdf)<br>[Basic Navigation Demo (ZIP)](09-css-for-navigation1/demo_basic-navigation.zip)
   - [**CSS for Layout, part 2** (PDF)](08-css-for-layout2/08-css-for-layout2.pdf)<br>[Flex and Grid In-class Demo (ZIP)](08-css-for-layout2/flex-grid_demo.zip)
   - [**CSS for Layout, part 1** (PDF)](07-css-for-layout1/07-css-for-layout1.pdf)<br>[Webolution (website)](http://fabianburghardt.de/webolution/)
   - [**CSS for Formatting, part 2** (PDF)](06-css-for-formatting2/06-selectors-box model-floats.pdf)<br> [**Project 1 - Review** (PDF)](06-css-for-formatting2/06a-project1-review.pdf)
