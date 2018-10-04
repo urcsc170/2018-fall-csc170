@@ -8,10 +8,10 @@ Web Design and Development
 
 - Current topic
 
-  - [**CSS Navigation, part 2 (positioning)**, (PDF)](10-css-for-navigation2/10-css-positioning.pdf)<br>[Navigation Demo Files (ZIP)](10-css-for-navigation2/nav-demos.zip)
+  - [**Images for the Web** (PDF)](11-images-for-the-web/11-images-for-the-web.pdf)
 - Current assignments you should be working on
 
-  - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: Thursday, October 4 - *one week!*)
+  - [Lab 9: Background Images](lab09-background-images/instructions.md) (due: Tuesday, October 9)
   - [Project 1 - Classic HTML Document](project01-classic-html-document/instructions.md) (due: Tuesday, October 9)
 
 
@@ -19,6 +19,7 @@ Web Design and Development
 
 - Previous topics
 
+  - [**CSS Navigation, part 2 (positioning)**, (PDF)](10-css-for-navigation2/10-css-positioning.pdf)<br>[Navigation Demo Files (ZIP)](10-css-for-navigation2/nav-demos.zip)
   - [**CSS for Navigation, part 1** (PDF)](09-css-for-navigation1/09-css-for-navigation1.pdf)<br>[Basic Navigation Demo (ZIP)](09-css-for-navigation1/demo_basic-navigation.zip)
   - [**CSS for Layout, part 2** (PDF)](08-css-for-layout2/08-css-for-layout2.pdf)<br>[Flex and Grid In-class Demo (ZIP)](08-css-for-layout2/flex-grid_demo.zip)
   - [**CSS for Layout, part 1** (PDF)](07-css-for-layout1/07-css-for-layout1.pdf)<br>[Webolution (website)](http://fabianburghardt.de/webolution/)
@@ -30,6 +31,7 @@ Web Design and Development
   - [**Introduction to the Industry** (PDF)](01-introduction-to-the-industry/01-introduction-to-the-industry.pdf)<br>[What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
 - Previous assignments
 
+  - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: Thursday, October 4 - *one week!*)
   - [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Thursday, September 27)
   - [Lab 6: CSS for Formatting, part 2](lab06-css-for-formatting2/instructions.md) (due: Tuesday, September 25 - *one week!*)
   - [Lab 5: CSS for Formatting, part 1](lab05-css-for-formatting1/instructions.md) (due: Tuesday, September 18)
