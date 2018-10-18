@@ -21,7 +21,7 @@ Reminder: after you change the file extensions you can no longer view your web p
 - Inside the **lab10** folder create a new folder named **inc**
 - In the **inc** folder create two new plain text files with these names:<br>**html-top.inc**<br>**nav.inc**
 - Open all the **.php** files (the files that used to be .html) in your code editor
-- Open all three **.inc** files in your code editor
+- Open both **.inc** files in your code editor
 
 The rest of this lab requires you to juggle a lot of open files while copying and pasting code between them. It's easy to make mistakes and mess thing up. Go slowly!
 
