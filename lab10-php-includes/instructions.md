@@ -54,7 +54,7 @@ Note: doing this step will break the "is-current" menu highlighter. That's okay.
 - In any of your **.php** files except the **start.php** file, *copy* the following code to your computer's clipboard...
 
 ```html
-<nav>
+<nav class="menu">
 	<ul>
 		<li><a class="is-current" href="cats.html">Cats</a></li>
 		<li><a href="dogs.html">Dogs</a></li>
