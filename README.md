@@ -11,7 +11,7 @@ Web Design and Development
   - [**Website Construction, part 1** (PDF)](14-website-construction1/14-website-construction.pdf)
 - Current assignments you should be working on
 
-  - Lab 10: PHP Includes (coming soon)
+  - [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: Thursday, October 25)
   - [Project 2 - Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Tuesday, November 6)
 
 
