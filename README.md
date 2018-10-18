@@ -8,9 +8,10 @@ Web Design and Development
 
 - Current topic
 
-  - Midterm Review<br>*Midterms are administered in the lab where you're registered, either on Wednesday, October 10 and Thursday, October 11.*  
+  - [**Website Construction, part 1** (PDF)](14-website-construction1/14-website-construction.pdf)
 - Current assignments you should be working on
 
+  - Lab 10: PHP Includes (coming soon)
   - [Project 2 - Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Tuesday, November 6)
 
 
@@ -18,6 +19,7 @@ Web Design and Development
 
 - Previous topics
 
+  - **Midterm Review**
   - [**Images for the Web** (PDF)](11-images-for-the-web/11-images-for-the-web.pdf)
   - [**CSS Navigation, part 2 (positioning)**, (PDF)](10-css-for-navigation2/10-css-positioning.pdf)<br>[Navigation Demo Files (ZIP)](10-css-for-navigation2/nav-demos.zip)
   - [**CSS for Navigation, part 1** (PDF)](09-css-for-navigation1/09-css-for-navigation1.pdf)<br>[Basic Navigation Demo (ZIP)](09-css-for-navigation1/demo_basic-navigation.zip)
