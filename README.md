@@ -8,9 +8,10 @@ Web Design and Development
 
 - Current topic
 
-  - [**Website Construction, part 1** (PDF)](14-website-construction1/14-website-construction.pdf)
+  - [**Website Construction Part 1 cont'd** - MAMP and WAMP (PDF)](15-website-construction1a/15-mamp-and-wamp.pdf)
 - Current assignments you should be working on
 
+  - Optional: install [MAMP](https://www.mamp.info/en/) or [WAMPServer](http://www.wampserver.com/en/) (in the labs)
   - [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: Thursday, October 25)
   - [Project 2 - Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Tuesday, November 6)
 
@@ -19,6 +20,7 @@ Web Design and Development
 
 - Previous topics
 
+  - [**Website Construction, part 1** (PDF)](14-website-construction1/14-website-construction.pdf)
   - **Midterm Review**
   - [**Images for the Web** (PDF)](11-images-for-the-web/11-images-for-the-web.pdf)
   - [**CSS Navigation, part 2 (positioning)**, (PDF)](10-css-for-navigation2/10-css-positioning.pdf)<br>[Navigation Demo Files (ZIP)](10-css-for-navigation2/nav-demos.zip)
