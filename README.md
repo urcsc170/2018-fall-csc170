@@ -8,11 +8,10 @@ Web Design and Development
 
 - Current topic
 
-  - [**Website Construction Part 1 cont'd** - MAMP and WAMP (PDF)](15-website-construction1a/15-mamp-and-wamp.pdf)
+  - [**HTML Forms, part 1** (PDF)](16-html-forms1/16-html-forms1.pdf)
 - Current assignments you should be working on
 
-  - Optional: install [MAMP](https://www.mamp.info/en/) or [WAMPServer](http://www.wampserver.com/en/) (in the labs)
-  - [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: Thursday, October 25)
+  - [Lab 11: HTML Forms, part 1](lab11-html-forms1/instructions.md) (due: Thursday, October 30)
   - [Project 2 - Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Tuesday, November 6)
 
 
@@ -20,6 +19,7 @@ Web Design and Development
 
 - Previous topics
 
+  - [**Website Construction, part 1 cont'd** - MAMP and WAMP (PDF)](15-website-construction1a/15-mamp-and-wamp.pdf)
   - [**Website Construction, part 1** (PDF)](14-website-construction1/14-website-construction.pdf)
   - **Midterm Review**
   - [**Images for the Web** (PDF)](11-images-for-the-web/11-images-for-the-web.pdf)
@@ -35,6 +35,8 @@ Web Design and Development
   - [**Introduction to the Industry** (PDF)](01-introduction-to-the-industry/01-introduction-to-the-industry.pdf)<br>[What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
 - Previous assignments
 
+  - Optional: install [MAMP](https://www.mamp.info/en/) or [WAMPServer](http://www.wampserver.com/en/) (in the labs)
+  - [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: Thursday, October 25)
   - [Lab 9: Background Images](lab09-background-images/instructions.md) (due: Tuesday, October 9)
   - [Project 1 - Classic HTML Document](project01-classic-html-document/instructions.md) (due: Tuesday, October 9)
   - [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: Thursday, October 4 - *one week!*)
