@@ -98,23 +98,7 @@ For this lab you will integrate the non-working HTML form from Lab 11 into your 
   - Create variable names for the incoming data that make sense; typically you can use the same word(s) you used in the superglobals, for example `$name = $_POST['name'];`
 - Save and close the **form-processor.php** file
 
-## Step 6: Add Values to your Checkboxes and Radio Buttons
-
-Continue editing the **contact.php** file:
-
-- Add `value=""` attributes to each *checkbox* and *radio* **INPUT** field.  
-
-- In between the quotation marks for each, enter a meaningful value for each one like this:
-
-  ```html
-  <input type="checkbox" name="lookerCheck" id="lookerCheck" value="Good Looking">
-  ```
-
-  ...each value can be whatever you want (and include spaces); whatever you type there will eventually end-up in your email.
-
-- Save and close the **contact.php** file
-
-## Step 7: Upload, Test and Report your Work
+## Step 6: Upload, Test and Report your Work
 
 Remember: even though you may be  running a local webserver (WAMP or MAMP) the PHP `mail()` command *won't* work because you don't have a mail server on your computer.  You can only test your **contact.php** file when it's running on the class web server.
 
