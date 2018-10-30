@@ -36,7 +36,7 @@ Web Design and Development
   - [**Introduction to the Industry** (PDF)](01-introduction-to-the-industry/01-introduction-to-the-industry.pdf)<br>[What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
 - Previous assignments
 
-  - [Lab 11: HTML Forms, part 1](lab11-html-forms1/instructions.md) (due: Thursday, October 30)
+  - [Lab 11: HTML Forms, part 1](lab11-html-forms1/instructions.md) (due: Tuesday, October 30)
   - Optional: install [MAMP](https://www.mamp.info/en/) or [WAMPServer](http://www.wampserver.com/en/) (in the labs)
   - [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: Thursday, October 25)
   - [Lab 9: Background Images](lab09-background-images/instructions.md) (due: Tuesday, October 9)
