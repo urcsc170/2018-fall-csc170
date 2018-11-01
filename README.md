@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - [**HTML Forms, part 2** (PDF)](17-html-forms2/17-html-forms2.pdf)
+  - [**Webpage Behavior** (PDF)](18-web-behavior1/18-webpage-behavior.pdf)
 - Current assignments you should be working on
 
   - [Lab 12: HTML Forms, part 2](lab12-html-forms2/instructions.md) (due: Tuesday, November 6)
@@ -19,6 +19,7 @@ Web Design and Development
 
 - Previous topics
 
+  - [**HTML Forms, part 2** (PDF)](17-html-forms2/17-html-forms2.pdf)
   - [**HTML Forms, part 1** (PDF)](16-html-forms1/16-html-forms1.pdf)
   - [**Website Construction, part 1 cont'd** - MAMP and WAMP (PDF)](15-website-construction1a/15-mamp-and-wamp.pdf)
   - [**Website Construction, part 1** (PDF)](14-website-construction1/14-website-construction.pdf)
