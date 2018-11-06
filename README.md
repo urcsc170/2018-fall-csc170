@@ -8,17 +8,18 @@ Web Design and Development
 
 - Current topic
 
-  - [**Webpage Behavior** (PDF)](18-web-behavior1/18-webpage-behavior.pdf)
+  - [**Webpage Behavior, part 2** (PDF)](19-web-behavior2/19-document-object-model.pdf)<br>[Demo Files (ZIP)](19-web-behavior2/demo_toggle.zip)
 - Current assignments you should be working on
 
-  - [Lab 12: HTML Forms, part 2](lab12-html-forms2/instructions.md) (due: Tuesday, November 6)
-  - [Project 2 - Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Tuesday, November 6)
+  - Lab 13 JavaScript (coming soon)
+  - [Project 3 - Multi-page Website](project03-multipage-website/instructions.md) (due: Tuesday, December 4)<br>[Project 3 Structure (PDF)](19-web-behavior2/19a-project3-structure.pdf)
 
 
 <hr>
 
 - Previous topics
 
+  - [**Webpage Behavior, part 1** (PDF)](18-web-behavior1/18-webpage-behavior.pdf)
   - [**HTML Forms, part 2** (PDF)](17-html-forms2/17-html-forms2.pdf)
   - [**HTML Forms, part 1** (PDF)](16-html-forms1/16-html-forms1.pdf)
   - [**Website Construction, part 1 cont'd** - MAMP and WAMP (PDF)](15-website-construction1a/15-mamp-and-wamp.pdf)
@@ -37,6 +38,8 @@ Web Design and Development
   - [**Introduction to the Industry** (PDF)](01-introduction-to-the-industry/01-introduction-to-the-industry.pdf)<br>[What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
 - Previous assignments
 
+  - [Lab 12: HTML Forms, part 2](lab12-html-forms2/instructions.md) (due: Tuesday, November 6)
+  - [Project 2 - Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Tuesday, November 6)
   - [Lab 11: HTML Forms, part 1](lab11-html-forms1/instructions.md) (due: Tuesday, October 30)
   - Optional: install [MAMP](https://www.mamp.info/en/) or [WAMPServer](http://www.wampserver.com/en/) (in the labs)
   - [Lab 10: PHP Includes](lab10-php-includes/instructions.md) (due: Thursday, October 25)
