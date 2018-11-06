@@ -25,7 +25,7 @@ Preparing identically-sized images might take some extra work using software on 
 ## Step 2: Create a Home Page
 
 - Rename your **start.php** file to **index.php**
-- In the **index.php** file, directly under the *nav.inc* remove the contents of the `class="lead"` element (leave the tags there - just delete everything inside it)
+- In the **index.php** file, directly under the *nav.inc* remove the contents of the SECTION element with the  `class="lead"` (leave the SECTION tags there - just delete everything inside it)
 
 - Add an H2 in the SECTION element - some kind of welcome message, something like this:<br> `<h2>Welcome to The World of William Shakespeare</h2>` <br>_(It doesn’t have to say, “Welcome to….”  You can be creative here)_
 - Within the SECTION element, add a FIGURE element and a DIV like this:
