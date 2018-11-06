@@ -32,6 +32,7 @@ Preparing identically-sized images might take some extra work using software on 
 
 ```html
 <section class="lead">
+    
   <h2>Welcome to The World of William Shakespeare</h2>
   <figure>
 
@@ -40,11 +41,12 @@ Preparing identically-sized images might take some extra work using software on 
   <div>
 
   </div>
+    
 </section><!--.lead-->
 ```
 
 - Edit your **inc/nav.inc** file:
-  - Add a list item to the new **index.php** file
+  - Add a menu item that links to the new **index.php** file
   - Have the text for the link say something like "Home" ...or something like that
   - Save and close the **inc/nav.inc** file
 
@@ -63,7 +65,7 @@ Continuing in the **index.php** file...
 
 …In the blanks (above) use whatever you named one of your new images in the SRC and write its description in the ALT
 
-- [ ] Add the JavaScript **onmouseover** event to the image element to change the source (the “src”) to the other new image when a mouse hovers over that element
+- [ ] Add a JavaScript **onmouseover** event to the image element to change the source (the “src”) to the other new image when a mouse hovers over that element
 
 
   ```html
@@ -137,7 +139,7 @@ Still editing the **index.php** file...
 ```
 
 - Delete the rest of the content on the page: the ARTICLE, ASIDE, and FOOTER 
-  - Delete not only the contents of those elements, but the elements themselves.
+  - Delete not only the contents of those elements, but the elements themselves too.
 
 From an appearance standpoint, you should have something that looks like this:
 
@@ -145,15 +147,24 @@ From an appearance standpoint, you should have something that looks like this:
 
 ...when you hover your mouse of the image, it should change.  When you move your mouse away, it should change back.
 
+The More... button doesn't do anything until we give it some power via JavaScript...
+
 ### Power the 'More...' Button
 
 Continuing to edit the **index.php** file
 
 - Add an ID to the BUTTON element
 - Add an ID to the second DIV element (directly below the BUTTON element)
-- In the file system, add a new folder named: **js**
+
+In the file system, in your **lab13** folder...
+
+- Add a new folder named: **js**
+
 - Create a file in the **js** folder named **scripts.js**
+
 - Near the bottom of the Index page, just above the closing BODY tag, add an embedded JavaScript block using the `<script>` tag to connect the external JavaScript file named: **js/scripts.js**
+
+  `<script src="js/scripts.js"></script>`
 
 Edit the **scripts.js** file.  Add this starter code:
 
@@ -181,7 +192,9 @@ toggle_button.addEventListener("click", function(){
 });
 ```
 
-- Replace the blanks in lines 5 and 6 with the IDs that you used in the BUTTON and the DIV directly below it
+- [ ] Replace the blanks in lines 5 and 6 with the IDs that you used in the BUTTON and the DIV directly below it
+
+Save and close all your files.
 
 ## Step 6: Upload, Test and Report your Work
 
