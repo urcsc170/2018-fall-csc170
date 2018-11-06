@@ -11,7 +11,7 @@ Web Design and Development
   - [**Webpage Behavior, part 2** (PDF)](19-web-behavior2/19-document-object-model.pdf)<br>[Demo Files (ZIP)](19-web-behavior2/demo_toggle.zip)
 - Current assignments you should be working on
 
-  - Lab 13 JavaScript (coming soon)
+  - [Lab 13 JavaScript](lab13-javascript-basics/instructions) (due: Tuesday, November 13)
   - [Project 3 - Multi-page Website](project03-multipage-website/instructions.md) (due: Tuesday, December 4)<br>[Project 3 Structure (PDF)](19-web-behavior2/19a-project3-structure.pdf)
 
 
