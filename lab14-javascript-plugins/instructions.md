@@ -85,8 +85,6 @@ You need to install the plugin according to the instructions by the developers o
 You should end up with something that looks like this:
 ![section of HTML](media/code-snippet2.png "something that looks like this")
 
-OPTIONALLY: go into your **home.css** file and change/add styles as you see fit to make the "hero" look nicer.  E.g. add `grid-gap: 25px;` to the `.hero` styles.  It's up to you.
-
 ## Check and Upload your Work
 - Validate the HTML file ([http://validator.w3.org/](http://validator.w3.org/))
 

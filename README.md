@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - JavaScript Libraries (PDF)<br>JavaScript Plugins (PDF)
+  - [**JavaScript Libraries** (PDF)](21-libraries-plugins/javascript-libraries.pdf)<br>[**JavaScript Plugins** (PDF)](21-libraries-plugins/javascript-plugins.pdf)
 - Current assignments you should be working on
 
   - [Lab 14 JavaScript Plugins](lab14-javascript-plugins/instructions.md) (due: Tuesday, November 20)
