@@ -95,7 +95,7 @@ Depending on how you styled your "lead" section with your custom CSS you may or 
 
 - Create a new CSS file named **home.css** and put it in your **css** folder
 
-- Add styles like this to position your SSS slide show and Accordion side-by-side<br>
+- In the **home.css** file add styles like this to position your SSS slide show and Accordion side-by-side<br>
 
   ```css
   .inner-container {
