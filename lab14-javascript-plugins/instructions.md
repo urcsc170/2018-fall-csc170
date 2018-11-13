@@ -47,7 +47,7 @@ You need to install the plugin according to the instructions by the author.  In 
 - In the **index** file, in the correct location install the jQuery CDN (from Google)
   `<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>`
 
-- In the **index** file, in the correct location install the SSS plugin `<script src="sss/sss.min.js"></script>`
+- In the **index** file, in the correct location install the SSS plugin `<script src="sss/sss.js"></script>`
 
 - In the **index** file, in the correct location install an initialization string for the SSS plugin
 
