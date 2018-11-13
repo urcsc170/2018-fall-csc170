@@ -13,9 +13,9 @@ You will need to be familiar with these two plugins:
 
 ## Setup
 
-- Make a copy of your **lab14** folder.  Call it **lab15**
+- Make a copy of your **lab13** folder.  Call it **lab14**
 
-- In the PHP Include file where you keep the HEAD, change the TITLE in the HEAD  to "Lab 15 - ..."  e.g.  `<title>Lab 15 - Shakespeare</title>` 
+- In the PHP Include file where you keep the HEAD, change the TITLE in the HEAD  to "Lab 14 - ..."  e.g.  `<title>Lab 14 - Shakespeare</title>` 
 
 - In the **index.php** file rip out the "hover trick" JavaScript you used from Lab 14 by doing this...
 
