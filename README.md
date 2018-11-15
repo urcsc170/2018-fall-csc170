@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current topic
 
-  - Website Construction, Part 2<br>Menu Highlighter Demo with PHP Includes (ZIP)
+  - **Website Construction, Part 2**<br>[Menu Highlighter Demo with PHP Includes (ZIP)](22-website-construction2/menu-demo-with-includes.zip)
   
 - Current assignments you should be working on
 
