@@ -8,9 +8,11 @@ Web Design and Development
 
 - Current topic
 
-  - [**JavaScript Libraries** (PDF)](21-libraries-plugins/javascript-libraries.pdf)<br>[**JavaScript Plugins** (PDF)](21-libraries-plugins/javascript-plugins.pdf)
+  - Website Construction, Part 2<br>Menu Highlighter Demo with PHP Includes (ZIP)
+  
 - Current assignments you should be working on
 
+  - [Lab 15 Menu Highlighter](lab16-menu-highlighter/instructions.md) (due: Thursday, November 29)
   - [Lab 14 JavaScript Plugins](lab14-javascript-plugins/instructions.md) (due: Tuesday, November 20)
   - [Project 3 - Multi-page Website](project03-multipage-website/instructions.md) (due: Tuesday, December 4)<br>[Project 3 Structure (PDF)](19-web-behavior2/19a-project3-structure.pdf)
 
@@ -18,7 +20,7 @@ Web Design and Development
 <hr>
 
 - Previous topics
-
+  - [**JavaScript Libraries** (PDF)](21-libraries-plugins/javascript-libraries.pdf)<br>[**JavaScript Plugins** (PDF)](21-libraries-plugins/javascript-plugins.pdf)
   - [**Webpage Behavior, part 2** (PDF)](19-web-behavior2/19-document-object-model.pdf)<br>[Demo Files (ZIP)](19-web-behavior2/demo_toggle.zip)
   - [**Webpage Behavior, part 1** (PDF)](18-web-behavior1/18-webpage-behavior.pdf)
   - [**HTML Forms, part 2** (PDF)](17-html-forms2/17-html-forms2.pdf)
