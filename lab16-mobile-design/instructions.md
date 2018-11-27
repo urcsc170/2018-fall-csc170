@@ -1,5 +1,5 @@
 # Lab 16: Mobile Design
-*Due: Tuesday, December 4, 2018*
+*Due: Tuesday, December 4, 2018 (one week)*
 
 ## Step 1: Copy Lab 15
 
@@ -28,6 +28,8 @@ Keep in mind, everyone's design is different.  Exactly what you need to do to ma
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
+<hr>
+
 *The following steps assume you are using **Google Chrome**.  There may be a way to do the same in other web browsers - I'm not sure.*
 
 #### Media Queries
@@ -38,7 +40,9 @@ Keep in mind, everyone's design is different.  Exactly what you need to do to ma
 
 4. Open your **styles.css** file, **home.css** file, and **navigation.css** file for editing
 
-5. Figure out what CSS you need to change using *media queries* to fix the breakage.  Here are some examples:
+5. Figure out what CSS you need to change using *media queries* to fix the breakage.  Remember: whatever media queries you write must appear *below* the original CSS you're changing. 
+
+   Here are some examples which may or may not work for your lab website  You need to alter these examples as needed for your website:
 
    - The *horizontal navigation bar* might cause horizontal scroll bars to appear at some point; say it happens at viewport width: 600px (yours will probably be different!) you would write in your **navigation.css** file:
 
@@ -69,11 +73,11 @@ Keep in mind, everyone's design is different.  Exactly what you need to do to ma
      } 
      ```
 
-   - Take a look at your *homepage*.  At small widths you'll probably need to un-do the side-by-side positioning of the elements in your "hero" element; say you need to add a breakpoint at 650px (again, yours will probably be different!) you would write in your **home.css** file:
+   - Take a look at your *homepage*.  At small widths you'll probably need to un-do the side-by-side positioning of the elements in your "hero" element; say you need to add a breakpoint at 650px (again, yours will probably be different!) you would write in your **styles.css** file:
 
      ```css
      @media (max-width: 650px) {
-          .hero { display: block; } /* ...this will un-do CSS Grid on the container */
+          .lead { display: block; } /* ...this will un-do CSS Grid on the container */
      }
      ```
 
@@ -92,7 +96,7 @@ You may or may not need to do the following, depending on your images and where 
 
 7. Open for editing all your webpages that have embedded IMG elements 
 
-8. Add the `class="flexible"` *only* to the IMG elements as needed - not necessarily all of them - only the ones where it's needed, if any (...definitely not the ones on your homepage slider)
+8. Add the `class="flexible"` (or another descriptive name that you choose) *only* to the IMG elements as needed - not necessarily all of them - only the ones where it's needed, if any.
 
 #### Other things
 
