@@ -10,11 +10,11 @@
 
 You need to make your website "mobile friendly" which, for this lab is: **375 x 667px** (the size of an iPhone 6, 7, or 8 in portrait mode); at this size your website must...
 
-- Show no horizontal scroll bars
-- Have all elements fit their containers
-- Show text that is not too small to read comfortably, and there must be a lot of contrast between text color and its background
-- Show images that are still recognizable for what they are, i.e. not too small
-- Have navigation elements that look like buttons and they are finger-sized (easily tap-able)
+- [ ] Show no horizontal scroll bars
+- [ ] Have all elements fit their containers
+- [ ] Show text that is not too small to read comfortably, and there must be a lot of contrast between text color and its background
+- [ ] Show images that are still recognizable for what they are, i.e. not too small
+- [ ] Have navigation elements that look like buttons and they are finger-sized (easily tap-able)
 
 ### Suggested steps:
 
