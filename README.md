@@ -14,7 +14,7 @@ Web Design and Development
 
   - [Lab 16 Mobile Design](lab16-mobile-design/instructions.md) (due: December 4)
   - [Lab 15 Menu Highlighter](lab15-menu-highlighter/instructions.md) (due: Thursday, November 29)
-  - [Project 3 - Multi-page Website](project03-multipage-website/instructions.md) (due: Tuesday, December 4)<br>[Project 3 Structure (PDF)](19-web-behavior2/19a-project3-structure.pdf)
+  - [Project 3 - Multi-page Website](project03-multipage-website/instructions.md) (due: Thursday, December 6)<br>[Project 3 Structure (PDF)](19-web-behavior2/19a-project3-structure.pdf)
 
 
 <hr>

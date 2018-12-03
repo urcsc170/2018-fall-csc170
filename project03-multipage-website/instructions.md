@@ -1,6 +1,6 @@
 # Project 3: Multipage Website
 
-*Due: Tuesday, December 4, 2018*
+*Due: Thursday, December 6, 2018*
 
 ## General and Global Requirements
 
