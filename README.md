@@ -8,10 +8,9 @@ Web Design and Development
 
 - Current topic
 
-  - **Driving Traffic to Websites** (PDF) (coming soon)
+  - [**Driving Traffic to Websites** (PDF)](26-driving-traffic/25-search.pdf)<br>[Periodic Table of SEO Success Factors (PDF)](26-driving-traffic/26-periodic-table.pdf)<br>[Periodic Table (PDF, single page)](26-driving-traffic/seo-periodic-table.pdf)
 - Current assignments you should be working on
 
-  - [Lab 16 Mobile Design](lab16-mobile-design/instructions.md) (due: December 4)
   - [Project 3 - Multi-page Website](project03-multipage-website/instructions.md) (due: Thursday, December 6)<br>[Project 3 Structure (PDF)](19-web-behavior2/19a-project3-structure.pdf)
 
 
@@ -42,6 +41,7 @@ Web Design and Development
   - [**Introduction to the Industry** (PDF)](01-introduction-to-the-industry/01-introduction-to-the-industry.pdf)<br>[What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
 - Previous assignments
 
+  - [Lab 16 Mobile Design](lab16-mobile-design/instructions.md) (due: December 4)
   - [Lab 15 Menu Highlighter](lab15-menu-highlighter/instructions.md) (due: Thursday, November 29)
   - [Lab 14 JavaScript Plugins](lab14-javascript-plugins/instructions.md) (due: Tuesday, November 20)
   - [Lab 13 JavaScript](lab13-javascript-basics/instructions) (due: Tuesday, November 13)
