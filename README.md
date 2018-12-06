@@ -7,17 +7,16 @@ Web Design and Development
 <hr>
 
 - Current topic
+  - **Final Exam Review**
 
-  - [**Driving Traffic to Websites** (PDF)](26-driving-traffic/25-search.pdf)<br>[Periodic Table of SEO Success Factors (PDF)](26-driving-traffic/26-periodic-table.pdf)<br>[Periodic Table (PDF, single page)](26-driving-traffic/seo-periodic-table.pdf)
 - Current assignments you should be working on
-
-  - [Project 3 - Multi-page Website](project03-multipage-website/instructions.md) (due: Thursday, December 6)<br>[Project 3 Structure (PDF)](19-web-behavior2/19a-project3-structure.pdf)
-
+  - Study for the final exam
 
 <hr>
 
 - Previous topics
 
+  - [**Driving Traffic to Websites** (PDF)](26-driving-traffic/25-search.pdf)<br>[Periodic Table of SEO Success Factors (PDF)](26-driving-traffic/26-periodic-table.pdf)<br>[Periodic Table (PDF, single page)](26-driving-traffic/seo-periodic-table.pdf)
   - [**Mobile Design** (PDF)](23-mobile-design/24-mobile-design.pdf)<br>[In-class Demos (ZIP)](23-mobile-design/demos_mobile-design.zip)
   - **Website Construction, Part 2**<br>[Menu Highlighter Demo with PHP Includes (ZIP)](22-website-construction2/menu-demo-with-includes.zip)
   - [**JavaScript Libraries** (PDF)](21-libraries-plugins/javascript-libraries.pdf)<br>[**JavaScript Plugins** (PDF)](21-libraries-plugins/javascript-plugins.pdf)
@@ -39,8 +38,9 @@ Web Design and Development
   - [**The Web and HTML** (PDF)](03-web-and-html/03-web-and-html.pdf)<br>[Tim Berners-Lee's Proposal (website)](http://info.cern.ch/Proposal.html)<br>[W3C HTML Validator (website)](https://validator.w3.org/)
   - [**The Internet** (PDF)](02-internet/02-internet.pdf)
   - [**Introduction to the Industry** (PDF)](01-introduction-to-the-industry/01-introduction-to-the-industry.pdf)<br>[What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc)
-- Previous assignments
 
+- Previous assignments
+  - [Project 3 - Multi-page Website](project03-multipage-website/instructions.md) (due: Thursday, December 6)<br>[Project 3 Structure (PDF)](19-web-behavior2/19a-project3-structure.pdf)
   - [Lab 16 Mobile Design](lab16-mobile-design/instructions.md) (due: December 4)
   - [Lab 15 Menu Highlighter](lab15-menu-highlighter/instructions.md) (due: Thursday, November 29)
   - [Lab 14 JavaScript Plugins](lab14-javascript-plugins/instructions.md) (due: Tuesday, November 20)
